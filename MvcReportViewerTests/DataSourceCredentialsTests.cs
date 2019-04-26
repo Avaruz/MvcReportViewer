@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Web;
 using System.Web.Mvc;
-using Microsoft.Reporting.WebForms;
+using Microsoft.
 using NUnit.Framework;
 
 namespace MvcReportViewer.Tests

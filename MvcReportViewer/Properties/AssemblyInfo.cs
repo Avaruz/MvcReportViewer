@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MvcReportViewer")]
 [assembly: AssemblyDescription("ASP.NET MVC wrapped for Microsoft ReportViewer control")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Avaruz Inc.")]
 [assembly: AssemblyProduct("MvcReportViewer")]
-[assembly: AssemblyCopyright("Copyright © Ilya Verbitskiy 2013-2015")]
+[assembly: AssemblyCopyright("Copyright © Ilya Verbitskiy 2013-2015, Adhemar Soria Galvarro 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -33,5 +33,5 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("0.8.*")]
-[assembly: AssemblyFileVersion("0.8.3.0")]
+[assembly: AssemblyFileVersion("0.8.4")]
 [assembly: InternalsVisibleTo("MvcReportViewerTests")]
