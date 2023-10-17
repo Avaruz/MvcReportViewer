@@ -41,7 +41,8 @@
     <TargetFramework>net48</TargetFramework>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>0.90</Version>
-    <AssemblyName>MvcReportViewerBO</AssemblyName>
+    <Version>0.90.1</Version>
+    <AssemblyName>$(MSBuildProjectName)</AssemblyName>
+    <PackageId>$(AssemblyName)BO</PackageId>
   </PropertyGroup>
 </Project>
