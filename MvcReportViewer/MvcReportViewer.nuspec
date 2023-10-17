@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>MvcReportViewerBO</id>
-    <version>0.89</version>
+    <version>0.90</version>
     <title>$title$</title>
     <authors>Ilya Verbitskiy, Adhemar Soria Galvarro</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
