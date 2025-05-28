@@ -46,16 +46,16 @@
       <Version>160.1000.6</Version>
     </PackageReference>
     <PackageReference Include="System.Configuration.ConfigurationManager">
-      <Version>8.0.0</Version>
+      <Version>9.0.5</Version>
     </PackageReference>
-    <PackageReference Include="System.Text.Json" Version="8.0.4" />
+    <PackageReference Include="System.Text.Json" Version="9.0.5" />
   </ItemGroup>
   <PropertyGroup />
   <PropertyGroup>
     <TargetFramework>net48</TargetFramework>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>0.90.4</Version>
+    <Version>0.90.5</Version>
     <AssemblyName>$(MSBuildProjectName)</AssemblyName>
     <PackageId>$(AssemblyName)BO</PackageId>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
