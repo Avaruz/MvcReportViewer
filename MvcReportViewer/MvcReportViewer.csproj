@@ -55,7 +55,7 @@
     <TargetFramework>net48</TargetFramework>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>0.90.5</Version>
+    <Version>0.90.6</Version>
     <AssemblyName>$(MSBuildProjectName)</AssemblyName>
     <PackageId>$(AssemblyName)BO</PackageId>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
