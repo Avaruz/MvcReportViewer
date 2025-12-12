@@ -85,8 +85,8 @@
     <PackageReference Include="Microsoft.Bcl.Build" Version="1.0.21" />
     <PackageReference Include="Microsoft.Net.Http" Version="2.2.29" />
     <PackageReference Include="Microsoft.ReportingServices.ReportViewerControl.WebForms" Version="150.1652.0" />
-    <PackageReference Include="Microsoft.SqlServer.Types" Version="160.1000.6" />
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Microsoft.SqlServer.Types" Version="170.1000.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
     <PackageReference Include="Ninject" Version="3.3.6" />
     <PackageReference Include="Ninject.MVC5" Version="3.3.0" />
     <PackageReference Include="Ninject.Web.Common" Version="3.3.2" />
